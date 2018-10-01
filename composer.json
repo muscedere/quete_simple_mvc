@@ -1,0 +1,17 @@
+{
+    "name": "wilder/quete_simple_mvc",
+    "authors": [
+        {
+            "name": "Anthony Muscedere",
+            "email": "anthony.muscedere1@gmail.com"
+        }
+    ],
+    "require": {
+		
+		},
+	"autoload": {
+    "psr-4": {
+        "": "src/"
+    }
+}
+}
